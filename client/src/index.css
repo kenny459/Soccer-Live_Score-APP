@@ -1,0 +1,8 @@
+@import "tailwindcss"; 
+ 
+@layer components { 
+    .scoreBoard_team{ 
+        @apply flex flex-row gap-2
+    } 
+}
+    
